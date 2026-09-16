@@ -1,0 +1,11 @@
+TFMS User Management Module
+
+Features:
+- User Registration
+- Secure Login
+- Role Based Access Control
+
+Users:
+- Driver User
+- Traffic Police
+- Administrator
